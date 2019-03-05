@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:icon="@drawable/ic_event_black_24dp"
+        android:id="@+id/eventsItem"
+        android:title="Events"/>
+    <item android:id="@+id/allUsersItem"
+        android:icon="@drawable/ic_people_black_24dp"
+        android:title="Speakers"/>
+    <item android:id="@+id/myMessagesItem"
+        android:icon="@drawable/ic_sms_black_24dp"
+        android:title="My Messages"/>
+    <item android:id="@+id/logOutItem"
+        android:icon="@drawable/ic_lock_outline_black_24dp"
+        android:title="Log Out"></item>
+
+</menu>
